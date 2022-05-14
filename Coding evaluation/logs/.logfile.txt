@@ -1,0 +1,160 @@
+:::: Log File ::::
+[9/2/2022 -- 21:6]  Info task started
+[9/2/2022 -- 21:6]  Mustache Templates ran on the HTML files
+[9/2/2022 -- 21:6]  Scripts ran on main.js
+[9/2/2022 -- 21:6]  Sass ran on files
+[9/2/2022 -- 21:9]  restarted!
+[9/2/2022 -- 21:9]  restarted!
+[9/2/2022 -- 21:11]  restarted!
+[9/2/2022 -- 21:11]  restarted!
+[9/2/2022 -- 21:30]  restarted!
+[9/2/2022 -- 21:31]  Info task started
+[9/2/2022 -- 21:32]  Mustache Templates ran on the HTML files
+[9/2/2022 -- 21:32]  Scripts ran on main.js
+[9/2/2022 -- 21:32]  Sass ran on files
+[9/2/2022 -- 21:33]  restarted!
+[9/2/2022 -- 21:33]  restarted!
+[9/2/2022 -- 21:33]  restarted!
+[9/2/2022 -- 21:33]  restarted!
+[9/2/2022 -- 21:40]  Scripts ran on main.js
+[9/2/2022 -- 21:41]  Scripts ran on main.js
+[9/2/2022 -- 21:41]  Scripts ran on main.js
+[9/2/2022 -- 21:44]  Scripts ran on main.js
+[9/2/2022 -- 21:44]  Scripts ran on main.js
+[9/2/2022 -- 21:45]  Scripts ran on main.js
+[9/2/2022 -- 21:45]  Scripts ran on main.js
+[9/2/2022 -- 21:45]  Scripts ran on main.js
+[9/2/2022 -- 21:46]  Scripts ran on main.js
+[9/2/2022 -- 21:46]  Scripts ran on main.js
+[9/2/2022 -- 21:55]  Scripts ran on main.js
+[9/2/2022 -- 21:55]  Scripts ran on main.js
+[9/2/2022 -- 21:55]  Scripts ran on main.js
+[9/2/2022 -- 21:56]  Scripts ran on main.js
+[9/2/2022 -- 21:56]  Scripts ran on main.js
+[9/2/2022 -- 21:57]  Scripts ran on main.js
+[9/2/2022 -- 21:59]  Scripts ran on main.js
+[9/2/2022 -- 21:59]  Scripts ran on main.js
+[9/2/2022 -- 21:59]  Scripts ran on main.js
+[9/2/2022 -- 22:0]  Scripts ran on main.js
+[9/2/2022 -- 22:5]  Sass ran on files
+[9/2/2022 -- 22:5]  Sass ran on files
+[9/2/2022 -- 22:6]  Sass ran on files
+[9/2/2022 -- 22:7]  Sass ran on files
+[9/2/2022 -- 22:7]  Sass ran on files
+[9/2/2022 -- 22:7]  Scripts ran on main.js
+[9/2/2022 -- 22:7]  Scripts ran on main.js
+[9/2/2022 -- 22:8]  Scripts ran on main.js
+[9/2/2022 -- 22:8]  Scripts ran on main.js
+[9/2/2022 -- 22:9]  Scripts ran on main.js
+[9/2/2022 -- 22:9]  Scripts ran on main.js
+[9/2/2022 -- 22:10]  Scripts ran on main.js
+[9/2/2022 -- 22:10]  Sass ran on files
+[9/2/2022 -- 22:11]  Scripts ran on main.js
+[9/2/2022 -- 22:11]  Scripts ran on main.js
+[9/2/2022 -- 22:12]  Scripts ran on main.js
+[9/2/2022 -- 22:12]  Sass ran on files
+[9/2/2022 -- 22:13]  Sass ran on files
+[9/2/2022 -- 22:13]  Sass ran on files
+[9/2/2022 -- 22:15]  Scripts ran on main.js
+[9/2/2022 -- 22:15]  Scripts ran on main.js
+[9/2/2022 -- 22:15]  Scripts ran on main.js
+[9/2/2022 -- 22:16]  Scripts ran on main.js
+[9/2/2022 -- 22:17]  Scripts ran on main.js
+[9/2/2022 -- 22:19]  Sass ran on files
+[9/2/2022 -- 22:19]  Sass ran on files
+[9/2/2022 -- 22:20]  Sass ran on files
+[9/2/2022 -- 22:20]  Scripts ran on main.js
+[9/2/2022 -- 22:20]  Scripts ran on main.js
+[9/2/2022 -- 22:20]  Scripts ran on main.js
+[9/2/2022 -- 22:22]  Sass ran on files
+[9/2/2022 -- 22:22]  Scripts ran on main.js
+[9/2/2022 -- 22:22]  Sass ran on files
+[9/2/2022 -- 22:22]  Sass ran on files
+[9/2/2022 -- 22:22]  Sass ran on files
+[9/2/2022 -- 22:23]  Sass ran on files
+[9/2/2022 -- 22:23]  Sass ran on files
+[9/2/2022 -- 22:24]  Sass ran on files
+[9/2/2022 -- 22:24]  Sass ran on files
+[9/2/2022 -- 22:24]  Scripts ran on main.js
+[9/2/2022 -- 22:24]  Sass ran on files
+[9/2/2022 -- 22:25]  Sass ran on files
+[9/2/2022 -- 22:25]  Sass ran on files
+[9/2/2022 -- 22:25]  Sass ran on files
+[9/2/2022 -- 22:26]  Sass ran on files
+[9/2/2022 -- 22:26]  Sass ran on files
+[9/2/2022 -- 22:26]  Sass ran on files
+[9/2/2022 -- 22:27]  Sass ran on files
+[9/2/2022 -- 22:27]  Sass ran on files
+[9/2/2022 -- 22:28]  Scripts ran on main.js
+[9/2/2022 -- 22:28]  Scripts ran on main.js
+[9/2/2022 -- 22:29]  Sass ran on files
+[9/2/2022 -- 22:29]  Scripts ran on main.js
+[9/2/2022 -- 22:30]  Sass ran on files
+[9/2/2022 -- 22:30]  Scripts ran on main.js
+[9/2/2022 -- 22:31]  Scripts ran on main.js
+[9/2/2022 -- 22:32]  Sass ran on files
+[9/2/2022 -- 22:33]  Scripts ran on main.js
+[9/2/2022 -- 22:34]  Scripts ran on main.js
+[9/2/2022 -- 22:34]  Scripts ran on main.js
+[9/2/2022 -- 22:35]  Sass ran on files
+[9/2/2022 -- 22:36]  Scripts ran on main.js
+[9/2/2022 -- 22:36]  Scripts ran on main.js
+[9/2/2022 -- 22:37]  Scripts ran on main.js
+[9/2/2022 -- 22:38]  Scripts ran on main.js
+[9/2/2022 -- 22:38]  Scripts ran on main.js
+[9/2/2022 -- 22:39]  Scripts ran on main.js
+[9/2/2022 -- 22:39]  Scripts ran on main.js
+[9/2/2022 -- 22:39]  Scripts ran on main.js
+[9/2/2022 -- 22:41]  Scripts ran on main.js
+[9/2/2022 -- 22:42]  Scripts ran on main.js
+[9/2/2022 -- 22:43]  Scripts ran on main.js
+[9/2/2022 -- 22:43]  Scripts ran on main.js
+[9/2/2022 -- 22:43]  Scripts ran on main.js
+[9/2/2022 -- 22:44]  Scripts ran on main.js
+[9/2/2022 -- 22:44]  Scripts ran on main.js
+[9/2/2022 -- 22:45]  Scripts ran on main.js
+[9/2/2022 -- 22:45]  Scripts ran on main.js
+[9/2/2022 -- 22:45]  Scripts ran on main.js
+[9/2/2022 -- 22:46]  Scripts ran on main.js
+[9/2/2022 -- 22:46]  Scripts ran on main.js
+[9/2/2022 -- 22:46]  Scripts ran on main.js
+[9/2/2022 -- 22:47]  Sass ran on files
+[9/2/2022 -- 22:50]  Sass ran on files
+[9/2/2022 -- 22:51]  Scripts ran on main.js
+[9/2/2022 -- 22:52]  Scripts ran on main.js
+[9/2/2022 -- 22:53]  Scripts ran on main.js
+[13/5/2022 -- 23:5]  Info task started
+[13/5/2022 -- 23:5]  Mustache Templates ran on the HTML files
+[13/5/2022 -- 23:5]  Scripts ran on main.js
+[13/5/2022 -- 23:5]  Sass ran on files
+[13/5/2022 -- 23:11]  Info task started
+[13/5/2022 -- 23:13]  Info task started
+[13/5/2022 -- 23:13]  Mustache Templates ran on the HTML files
+[13/5/2022 -- 23:13]  Scripts ran on main.js
+[13/5/2022 -- 23:13]  Sass ran on files
+[13/5/2022 -- 23:14]  Info task started
+[13/5/2022 -- 23:19]  Info task started
+[13/5/2022 -- 23:27]  Info task started
+[13/5/2022 -- 23:27]  Mustache Templates ran on the HTML files
+[13/5/2022 -- 23:27]  Scripts ran on main.js
+[13/5/2022 -- 23:28]  Sass ran on files
+[14/5/2022 -- 0:12]  Info task started
+[14/5/2022 -- 0:12]  Mustache Templates ran on the HTML files
+[14/5/2022 -- 0:12]  Scripts ran on main.js
+[14/5/2022 -- 0:12]  Sass ran on files
+[14/5/2022 -- 12:17]  Info task started
+[14/5/2022 -- 12:17]  Mustache Templates ran on the HTML files
+[14/5/2022 -- 12:17]  Scripts ran on main.js
+[14/5/2022 -- 12:17]  Sass ran on files
+[14/5/2022 -- 12:18]  Info task started
+[14/5/2022 -- 12:18]  Mustache Templates ran on the HTML files
+[14/5/2022 -- 12:18]  Scripts ran on main.js
+[14/5/2022 -- 12:18]  Sass ran on files
+[14/5/2022 -- 12:24]  Info task started
+[14/5/2022 -- 12:24]  Mustache Templates ran on the HTML files
+[14/5/2022 -- 12:24]  Scripts ran on main.js
+[14/5/2022 -- 12:24]  Sass ran on files
+[14/5/2022 -- 16:38]  Info task started
+[14/5/2022 -- 16:38]  Mustache Templates ran on the HTML files
+[14/5/2022 -- 16:38]  Scripts ran on main.js
+[14/5/2022 -- 16:38]  Sass ran on files
